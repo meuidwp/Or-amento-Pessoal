@@ -201,6 +201,6 @@ caderno-financas-notebooklm/
 ├── fontes/ # (Opcional) PDFs baixados localmente
 │ └── ...
 └── imagens/ # Prints do NotebookLM
-├── prompt1.png
-├── prompt2.png
-└── prompt3.png
+├── Captura de Tela (10).png
+├── Captura de Tela (11).png
+└── Captura de Tela (12).png
